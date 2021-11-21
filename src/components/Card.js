@@ -14,7 +14,9 @@ export const Card = ({ product }) => {
         <div className="card-title">{product.productName}</div>
         <div className="product-price">
           <span className="text-product-price">${product.productPrice}</span>
-          <span className="text-product-sell-price">${product.productSellPrice}</span>
+          <span className="text-product-sell-price">
+            ${product.productSellPrice}
+          </span>
         </div>
         <button className="add-to-cart">Agregar al carrito</button>
       </div>
