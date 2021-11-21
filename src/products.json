@@ -1,0 +1,44 @@
+[
+    {
+        "id": "0",
+        "productName": "Manzana",
+        "productListPrice": "150",
+        "productSellPrice": "120",
+        "productImage": "../../assets/images/manzana.jpeg"
+    },
+    {
+        "id": "1",
+        "productName": "Coca Cola",
+        "productPrice": "180",
+        "productSellPrice": "180",
+        "productImage": "../../assets/images/coca-cola.jpeg"
+    },
+    {
+        "id": "2",
+        "productName": "Fideos Marolio",
+        "productPrice": "210",
+        "productSellPrice": "195",
+        "productImage": "../../assets/images/fideos-marolio.jpeg"
+    },
+    {
+        "id": "3",
+        "productName": "Detergente Magistral",
+        "productPrice": "135",
+        "productSellPrice": "135",
+        "productImage": "../../assets/images/detergente-magistral.jpeg"
+    },
+    {
+        "id": "4",
+        "productName": "Pata de pollo",
+        "productPrice": "215",
+        "productSellPrice": "215",
+        "productImage": "../../assets/images/pata-pollo.jpeg"
+    },
+    {
+        "id": "5",
+        "productName": "Alimento para gato",
+        "productPrice": "315",
+        "productSellPrice": "310",
+        "productImage": "../../assets/images/alimento-gatos.jpeg"
+    }
+]
