@@ -10,7 +10,12 @@ export const Card = ({ product }) => {
           alt="Pata de pollo"
           src={product.productImage}
         ></img>
-        {product.productName}
+        <div className="card-title">{product.productName}</div>
+        <div className="product-price">
+          <span>${product.productPrice}</span>
+          <span>${product.productSellPrice}</span>
+        </div>
+        <button className="add-to-cart">Agregar al carrito</button>
       </div>
     </div>
   );

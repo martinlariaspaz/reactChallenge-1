@@ -2,7 +2,7 @@
     {
         "id": "0",
         "productName": "Manzana",
-        "productListPrice": "150",
+        "productPrice": "150",
         "productSellPrice": "120",
         "productImage": "../../assets/images/manzana.jpeg"
     },
